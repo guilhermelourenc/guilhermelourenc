@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <a href="https://git.io/typing-svg"> <br>
+  <a href="https://git.io/typing-svg">  <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=4000&pause=1000&color=00CA15&center=true&width=435&lines=Hello+There!+I'm+Guilherme" alt="Typing SVG">
   </a>
 
@@ -29,7 +29,6 @@ I also develop AI-driven cybersecurity solutions and projects, helping organizat
   <img src="https://img.shields.io/badge/Machine%20Learning-00A67E?style=for-the-badge&logo=google-scholar&logoColor=white">
 </p>
 
-<br>
 
 <h3 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
@@ -87,7 +86,6 @@ I also develop AI-driven cybersecurity solutions and projects, helping organizat
   <img src="https://img.shields.io/badge/n8n-EA4D62?style=for-the-badge&logo=n8n&logoColor=white">
 
 </p>
-
 <br>
 
 <h3 align="center">🎓 Certifications</h3>
