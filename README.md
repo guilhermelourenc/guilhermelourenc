@@ -1,33 +1,24 @@
 <div align="center">
 
-<h2 style="color: #00CA15FF">
-  <a href="https://git.io/typing-svg">
+
+  <a href="https://git.io/typing-svg"> <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=4000&pause=1000&color=00CA15&center=true&width=435&lines=Hello+There!+I'm+Guilherme" alt="Typing SVG">
   </a>
-</h2>
+
 
 <img src="https://media.tenor.com/Hg4jUD7qrYMAAAAM/hack-the-planet-hacker-cat.gif" width="200">
-
-<br><br>
+<br>
+<br>
 
 <p><samp>
-I'm a Cyber Defense professional with 11 years of experience in Information Technology and 7 years dedicated to Information Security.<br>
-I hold a degree in Cyber Defense from FIAP, a Postgraduate degree in Cyber Forensics & Investigation from IPOG, and I am currently finishing my second Postgraduate program in Machine Learning Engineering at FIAP.<br>
+I'm a Cyber Defense professional with 11 years in IT and 7 years in Information Security.  <br>
+I hold a degree in Cyber Defense (FIAP), a Postgraduate in Cyber Forensics & Investigation (IPOG), and I'm completing a Postgraduate program in Machine Learning Engineering (FIAP).<br>
 <br>
 Over the years, I have worked across <b>Incident Response, CSIRT, Digital Forensics, SOC Operations, Threat Hunting, and Security Automation.</b><br>
 <br>
-I love solving complex incidents, hunting threats, breaking down artifacts, and exploring Windows Internals.<br>
-I also develop AI-driven cybersecurity solutions and projects, helping organizations enhance their detection, response, and automation capabilities.<br>
+I also develop AI-driven cybersecurity solutions and projects, helping organizations enhance their detection, response, and automation capabilities. <br>
 <br>
 </samp></p>
-
-<span style="color:#00CA15;">
-Working in cybersecurity feels like playing an RPG — just with malware instead of dragons. 🐉💻
-</span>
-
-
-<br><br>
-
 <h3 align="center">⚔️ Technical Badges</h3>
 
 <p align="center">
