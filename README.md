@@ -26,6 +26,7 @@ I also develop AI-driven cybersecurity solutions and projects, helping organizat
   <img src="https://img.shields.io/badge/Cyber%20Threat%20Hunter-8A2BE2?style=for-the-badge&logo=skull&logoColor=white">
   <img src="https://img.shields.io/badge/Computer%20Forensics-0057B8?style=for-the-badge&logo=search&logoColor=white">
   <img src="https://img.shields.io/badge/Machine%20Learning-00A67E?style=for-the-badge&logo=google-scholar&logoColor=white">
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+">
 </p>
 
 
