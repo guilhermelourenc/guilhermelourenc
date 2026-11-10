@@ -26,7 +26,6 @@ I also develop AI-driven cybersecurity solutions and projects, helping organizat
   <img src="https://img.shields.io/badge/Cyber%20Threat%20Hunter-8A2BE2?style=for-the-badge&logo=skull&logoColor=white">
   <img src="https://img.shields.io/badge/Computer%20Forensics-0057B8?style=for-the-badge&logo=search&logoColor=white">
   <img src="https://img.shields.io/badge/Machine%20Learning-00A67E?style=for-the-badge&logo=google-scholar&logoColor=white">
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+">
 </p>
 
 
@@ -99,6 +98,11 @@ I also develop AI-driven cybersecurity solutions and projects, helping organizat
   <!-- GitLab -->
   <a href="https://badgr.com/public/assertions/FOUflEOET3aa3luCfyFecQ" target="_blank">
     <img src="https://api.badgr.io/public/badges/gf_NVweOQKyljpEkybqnkQ/image" width="100px">
+  </a>
+
+  <!-- CompTIA Security+ -->
+  <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="100px" alt="CompTIA Security+">
   </a>
 
   <!-- AWS CCP -->
